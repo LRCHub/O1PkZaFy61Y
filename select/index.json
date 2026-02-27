@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "WILDFLOWER",
+  "base_artist": "Billie Eilish",
+  "createdAt": "2026-02-27T04:35:57.470132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wildflower Wildfire",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Wildflower_Wildfire_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soft Like Me (Featuring Wildflower)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/02_Soft_Like_Me_(Featuring_Wildflower)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "The Avalanches",
+      "has_synced": false,
+      "path": "select/03_Wildflower_The_Avalanches.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/04_Wildflower_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/05_Wildflower_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/06_Wildflower_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/07_Wildflower_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wildflower - Acoustic Version",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/08_Wildflower_-_Acoustic_Version_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wildflower (Acoustic Version)",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/09_Wildflower_(Acoustic_Version)_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wildflower Soul",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/10_Wildflower_Soul_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "Vacations",
+      "has_synced": false,
+      "path": "select/11_Wildflower_Vacations.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "CeeLo Green",
+      "has_synced": false,
+      "path": "select/12_Wildflower_CeeLo_Green.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "Cee Lo Green",
+      "has_synced": true,
+      "path": "select/13_Wildflower_Cee_Lo_Green.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "5 Seconds of Summer",
+      "has_synced": true,
+      "path": "select/14_Wildflower_5_Seconds_of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "AIKA feat. juu",
+      "has_synced": false,
+      "path": "select/15_Wildflower_AIKA_feat._juu.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "Aika 🌸",
+      "has_synced": false,
+      "path": "select/16_Wildflower_Aika_🌸.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Wildflower",
+      "artist": "Skylark",
+      "has_synced": true,
+      "path": "select/17_Wildflower_Skylark.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WILDFLOWER",
+      "artist": "ビリー・アイリッシュ",
+      "has_synced": false,
+      "path": "select/pl_01_WILDFLOWER_ビリー・アイリッシュ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "WILDFLOWER",
+      "artist": "ビリー・アイリッシュ",
+      "has_synced": false,
+      "path": "select/pl_02_WILDFLOWER_ビリー・アイリッシュ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "WILDFLOWER",
+      "artist": "ビリー・アイリッシュ",
+      "has_synced": false,
+      "path": "select/pl_03_WILDFLOWER_ビリー・アイリッシュ.txt"
+    }
+  ]
+}
